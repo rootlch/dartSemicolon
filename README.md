@@ -5,6 +5,7 @@ Command line tool use to demonstrate auto-insertion of semicolons in dart code.
 
 
 Usage instruction:
+
 PATH_TO_BINARY/semicolon -data='DATA_GOES_HERE'
 
 Or
